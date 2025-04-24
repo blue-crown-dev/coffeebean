@@ -3,6 +3,7 @@
 # ☕ Coffee Bean
 
 A landing page template for a cafe that sells premium coffee and pastries as well as roasted beans.
+
 ## Features
 
 - Responsive design across all screen sizes
@@ -24,9 +25,9 @@ cd coffeebean
 
 - Open the `index.html`file in your browser to see.
 
-
-
 ## Deployment
+
+The site is deployed live at [this link](https://beanscoffee.netlify.app)
 
 ## Built with
 
